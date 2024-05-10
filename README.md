@@ -1,1 +1,1 @@
-Basic one page non responsive website.
+fire detection
